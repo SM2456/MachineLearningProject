@@ -26,6 +26,11 @@ Here the result shows that a happy expression captured by the application is bei
 
 ![Happy](Happy.png)
 
+###Links for reference:
+
+1) https://data-flair.training/blogs/create-emoji-with-deep-learning/
+2) "FER-2013", Kaggle.com, 2020. [Online]. Available: https://www.kaggle.com/msambare/fer2013. [Accessed: 16- Nov- 2020].
+
 
 
 
