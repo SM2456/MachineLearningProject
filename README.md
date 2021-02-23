@@ -6,7 +6,7 @@ In this project, we have developed an application that will capture a human expr
 
 The work flow has been depictedin the following diagram.
 
-![workflow](workflow.jpg)
+![workflow](workflow.JPG)
 
 
 
