@@ -20,13 +20,9 @@ IDE: JupyterNotebook
 
 The dataset used in this project is the facial expression recognition dataset.It consists of 48x48 pixel grayscale face images which are centered occupying equal amount of spaces.There are 6 facial emotions that are depicted in the dataset. The dataset is the ‘Facial Expression Recognition Dataset’ from Kaggle.
 
-## Result:
 
-Here the result shows that a happy expression captured by the application is being reflected by the emoji.
 
-![Happy](Happy.png)
-
-###Links for reference:
+### Links for reference:
 
 1) https://data-flair.training/blogs/create-emoji-with-deep-learning/
 2) "FER-2013", Kaggle.com, 2020. [Online]. Available: https://www.kaggle.com/msambare/fer2013. [Accessed: 16- Nov- 2020].
